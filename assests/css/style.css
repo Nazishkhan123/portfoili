@@ -1,0 +1,944 @@
+
+.icons{
+    display: flex;
+    
+    background-color: black;
+    height: 50px;
+    width: 50%;
+    color: white;
+    position: relative;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+    
+    
+    
+
+}
+.contact{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+    height: 50px;
+    width: 50%;
+    color: white;
+    position: relative;
+    left: 50%;
+    align-items: center;
+    bottom: 50px;
+    justify-content: space-evenly;
+    margin-top: 0px;
+    
+    
+    
+
+    
+
+
+
+
+
+    
+    
+    
+
+}
+.fa-phone{
+    
+    color:yellowgreen;
+}
+.button{
+    
+    background-color: yellowgreen;
+    color: black;
+    width: 15%;
+    height: 30px;
+
+
+    
+    
+}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color:white;
+    
+    color: black;
+    line-height: 70px;
+    overflow: hidden;
+
+}
+*{
+    margin: 0px;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    height: 50px;
+    
+    
+
+}
+.logo{
+    width: px;
+    float: left;
+     
+
+    
+    
+}
+.menu {
+    float: right;
+   
+   }
+.menu li{
+    float: left;
+    width: 120px;
+    height: 70px;
+    line-height: 70px;
+    text-align:center;
+    list-style: none;
+    
+}
+.menu li a{
+    text-decoration: none;
+    
+
+    
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.text{
+    position: relative;
+    width: 100vw;
+    height: 70vh;
+    background-image: url(../images/greens.jpg);
+    background-size: cover;
+    color:white;
+        display: flex;
+        justify-content:center;
+        
+        align-items: center;
+        text-align: center;
+        font-weight: bold;
+        
+
+    }
+    .text-content h1{
+        font-family: arial;
+    }
+    .text-content h4{
+        margin-top: 1rem;
+    margin-bottom: 3rem;
+    }
+
+    .text-content a{
+        color: black;
+        padding: 3px 20px 3px 20px;
+        
+        
+        background: orange;
+        text-decoration: none;
+        
+    }
+    .container-text h1{
+        color: black;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        position:relative;
+    }
+    .container-text1 h1{
+        color:green;
+        text-align: center;
+        margin-top: 30px;
+        display: flex;
+        
+        
+
+    }
+    .container-text h5{
+        color: grey;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 4rem;
+
+    }
+    
+      
+    
+   
+   
+   
+     
+
+    
+    .bulb1 h3{
+        margin-top: 3rem;
+         
+       }
+       .bulb1 h6{
+        margin-bottom: 5rem;
+       }
+    .bulb h6{
+        color: grey;
+       
+      
+        
+    }
+
+    
+
+    
+    .bulb{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        
+        
+    }
+    .thumb h3{
+        margin-top: 3rem;
+       }
+       .thumb h6{
+        margin-bottom: 5rem;
+       }
+       .clock h3{
+        margin-top: 3rem;
+       }
+       .clock h6{
+        margin-bottom: 5rem;
+       }
+       .user h3{
+        margin-top: 3rem;
+       }
+       .user h6{
+        margin-bottom: 5rem;
+       }
+       .message h3{
+        margin-top: 3rem;
+       }
+       .message h6{
+        margin-bottom: 5rem;
+       }
+       .section h1{
+        color: black;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        
+        
+        
+
+       }
+       .section h1{
+        display: flex;
+        color:green;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1rem;
+        margin-top: rem;
+    
+
+       }
+       
+    
+       .section1{
+        
+        justify-content: space-evenly;
+        text-align: justify;
+        background-color:lightgray;
+        
+
+
+    
+    
+       }
+       .section1 h5{
+        text-align: center;
+        text-align:justify;
+        padding-left: 3rem;
+        padding-right: 3rem;
+        padding-bottom: 2rem;
+       }
+       .section1 {
+        text-align: center;
+        
+        
+       }
+       .section1 a{
+        color: black;
+        padding: 3px 20px 3px 20px;
+        
+        
+        background: orange;
+        text-decoration: none;
+
+       }
+       .section{
+        display: flex;
+        text-align: justify;
+        justify-content: space-evenly;
+    
+        
+
+       }
+       .cards h2{
+        text-align: center;
+        color: green;
+        padding-top: 2rem;
+       }
+       .cards h5{
+        text-align: center;
+        color: gray;
+        padding-bottom: 5rem;
+       }
+       .card1{
+        text-align:justify;
+        background-color: lightgray;
+        width:200px ;
+        height: 150px;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        
+
+    
+        align-items: center;
+        padding-left: 6rem;
+        margin-bottom: 3rem;
+        margin-left: 3rem;
+        
+        
+        
+       
+        box-shadow:2px 4px 5px white ;
+       }
+       .card1 h6{
+        padding-bottom: 1rem;
+        color:gray;
+        display: flex;
+       }
+       .card1 a{
+        color: green;
+       }
+       .maincard{
+        display: flex;
+        box-sizing: border-box
+        
+       }
+       .card2{
+        text-align:justify;
+        background-color: lightgray;
+        width:200px ;
+        height: 150px;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+
+    
+        align-items: center;
+        padding-left: 6rem;
+        margin-bottom: 3rem;
+        margin-left: 2rem;
+        
+        
+        
+        box-shadow:2px 4px 5px white;
+        
+       }
+       .card2 h6{
+        padding-bottom: 1rem;
+        color:gray;
+       }
+       .card2 a{
+        color: green;
+       }
+       .card3{
+        text-align:justify;
+        background-color: lightgray;
+        width:200px ;
+        height: 150px;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+
+    
+        align-items: center;
+        padding-left: 6rem;
+        margin-bottom: 3rem;
+        margin-left: 2rem;
+        
+        
+        
+        box-shadow:2px 4px 5px white;
+        
+       }
+       .card3 h6{
+        padding-bottom: 1rem;
+        color:gray;
+       }
+       .card3 a{
+        color: green;
+       }
+       .card4{
+        text-align:justify;
+        background-color: lightgray;
+        width:200px ;
+        height: 150px;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+
+    
+        align-items: center;
+        padding-left: 6rem;
+        margin-bottom: 3rem;
+        margin-left: 2rem;
+        
+        
+        
+        box-shadow:2px 4px 5px white;
+        
+       }
+       .card4 h6{
+        padding-bottom: 1rem;
+        color:gray;
+       }
+       .card4 a{
+        color: green;
+       }
+       .main{
+        display: flex;
+        text-align: justify;
+        text-align: center;
+       }
+       .process1 h6{
+        color: gray;
+        
+       }
+       
+       .process1 h4{
+        margin-top: 2rem;
+
+       }
+       .process1{
+        padding-left: 4rem;
+        padding-right: 3rem;
+        margin-bottom: 3rem;
+        margin-top: 2rem;
+
+       }
+       
+
+       
+    
+       .process2 h6{
+        color: gray;
+        
+       }
+       .process2 h4{
+        margin-top: 2rem;
+
+       }
+       
+    
+       .process2{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        margin-top: 2rem;
+
+       }
+       .process3 h6{
+        color: gray;
+        
+       }
+       .process3 h4{
+        margin-top: 2rem;
+
+       }
+       .process3{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        margin-top: 2rem;
+
+       }
+       .process4 h6{
+        color: gray;
+        
+       }
+       .process4 h4{
+        margin-top: 2rem;
+
+       }
+       .process4{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        margin-top: 2rem;
+
+       }
+       .process5 h6{
+        color: gray;
+        
+       }
+       .process5 h4{
+        margin-top: 2rem;
+
+       }
+       .process5{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        margin-top: 2rem;
+
+       }
+       .process6 h6{
+        color: gray;
+        
+       }
+       .process6 h4{
+        margin-top: 2rem;
+       }
+
+       .process6{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        margin-top: 2rem;
+
+       }
+       .menu1 li{
+        float: left;
+        width: 120px;
+        height: 70px;
+        line-height: 70px;
+        text-align:center;
+        list-style: none;
+        align-items: center;
+        justify-content: center;
+        color:white;
+        margin-bottom: rem;
+        
+
+        
+        
+        
+    }
+  
+    .mains{ 
+        background-color:black;
+        height: 500px;
+        justify-content: space-evenly;
+        
+    
+    }
+      .main menu{
+       display: flex;
+       text-align: justify;
+      }  
+      
+      .menu2{
+        
+        margin-right: 10rem;
+    
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        
+        
+      }
+      .mainpeople{
+        display: flex;
+  
+        text-align: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: justify;
+
+      }
+      
+
+      .people2{
+        margin-left: 5rem;
+        margin-bottom: 9rem;
+        padding-bottom: 3rem;
+        text-align: justify;
+        flex-direction: row;
+        
+      
+       
+
+      }
+      .people1{
+        
+        margin-left: 8rem;
+        justify-content: space-around;
+        text-align: center;
+       
+      }
+      .people3{
+        
+        padding-left: 4rem;
+        justify-content: space-around;
+        text-align: center;
+        
+      }
+      .people3 h4{
+        margin-left: 6rem;
+      }
+
+      
+      .people4{
+        margin-left: 5rem;
+        margin-bottom: 9rem;
+        padding-bottom: 3rem;
+        text-align: justify;
+        flex-direction: row;
+        justify-content: space-around;
+        
+
+        
+
+      }
+      .people1 h4{
+        margin-left: 6rem;
+      }
+
+      
+
+      .project{
+        background-color: greenyellow;
+        height: 100px;
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        margin-bottom: 5rem;
+
+      }
+      .mainproject{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    align-items: center;
+    text-align: center;
+    margin-top: 4reM;
+    text-decoration: none;
+    
+ 
+    
+      }
+      .project1{
+  
+        margin-left: 10rem;
+        margin-top: 2rem;
+        
+
+       
+      }
+      .project1 a{
+        text-decoration: none;
+        color:gray;
+        padding: 3px 20px 3px 20px;
+        
+        
+        background: white;
+
+
+       
+      }
+    
+      
+      .project2{
+        text-decoration: none;
+        margin-left: 3rem;
+        margin-top: 2rem;
+        
+      }
+      .project2 a{
+
+        text-decoration: none;
+        color: gray;
+        padding: 3px 20px 3px 20px;
+        
+        
+        background: white;
+      }
+      .project3{
+        text-decoration: none;
+        margin-left: 3rem;
+        margin-top: 2rem;
+        
+      }
+      .project3 a{
+
+        text-decoration: none;
+        color:gray;
+        padding: 3px 20px 3px 20px;
+        
+        
+        background: white;
+      }
+      .project4{
+        text-decoration: none;
+        margin-left: 5rem;
+        margin-top: 2rem;
+       
+     
+      }
+      .project4 a{
+
+        text-decoration: none;
+        color: black;
+        padding: 3px 20px 3px 20px;
+        
+        
+        background: orange;
+      }
+      .our1{
+        text-align: center;
+      }
+      .our2{
+        display: flex;
+        text-align: center ;
+        align-items: center;
+        margin-left: 32rem;
+        margin-right: rem;
+      }
+      .boxes{
+        display: flex;
+      }
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
